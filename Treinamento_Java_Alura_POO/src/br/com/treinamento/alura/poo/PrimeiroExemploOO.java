@@ -10,6 +10,8 @@ public class PrimeiroExemploOO {
 	public void setTestaGit(String testaGit) {
 		this.testaGit = testaGit;
 	}
-	
+	 public void addGit() {
+		 System.out.println("Adionamento feito com sucesso.");
+	 }
 	
 }
